@@ -1,0 +1,25 @@
+LOCUS       mCherry-XL-Cno           708 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mCherry-XL-Cno
+VERSION     mCherry-XL-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..708
+                     /gene="mCherry-XL"
+ORIGIN
+        1 atggtttcca agggcgagga ggacaacatg gctatcatta aggagtttat gaggtttaag
+       61 gtccacatgg agggttctgt caacggtcat gagtttgaga tcgaaggtga gggtgaaggc
+      121 aggccttacg agggcaccca gactgccaag ttgaaggtta ctaagggtgg ccccctcccc
+      181 ttcgcttggg acatcttgtc cccccaattc atgtatggtt ctaaggctta cgttaagcat
+      241 cccgccgaca ttcctgacta tcttaagttg tctttccccg aaggatttaa gtgggagcga
+      301 gttatgaact tcgaggatgg cggtgttgtt accgttaccc aggactcctc tctccaggat
+      361 ggtgagttca tctacaaggt caagttgcga ggtactaact tcccttccga cggtcccgtc
+      421 atgcagaaga agaccatggg atctgaggcc agctccgagc gtatgtaccc tgaagacggc
+      481 gccctcaagg gagaggttaa gtaccgcctt aagctcaagg acggtggtca ctacgacgct
+      541 gaagtcaaga ctacctataa ggctaagaag cccgtccagc ttcctggcgc ctacaacgtc
+      601 aaccgaaagc tcgacatcac cagccacaac gaagattaca ccattgtgga gcaatacgaa
+      661 agggccgagg gtcgccactc tactggtggt atggacgagt tgtacaag
+//

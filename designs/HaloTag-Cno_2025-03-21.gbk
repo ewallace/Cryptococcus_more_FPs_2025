@@ -1,0 +1,28 @@
+LOCUS       HaloTag-Cno              891 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   HaloTag-Cno
+VERSION     HaloTag-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..891
+                     /gene="HaloTag"
+ORIGIN
+        1 atggccgaga tcggcactgg ttttcccttt gaccctcatt acgtcgaggt ccttggtgag
+       61 aggatgcact atgttgacgt cggacccagg gacggtactc ccgtcttgtt cctccatggt
+      121 aaccccacct cttcttacgt gtggcgaaac atcattcccc acgtcgctcc cactcacagg
+      181 tgcattgccc ccgaccttat cggtatgggt aagtctgaca agcctgacct tggctatttt
+      241 ttcgacgatc acgtccgttt catggacgct ttcattgaag ctctcggtct tgaggaggtc
+      301 gtcctcgtta ttcatgactg gggcagcgcc ttgggtttcc actgggccaa gcgaaatccc
+      361 gagcgtgtta agggtatcgc ctttatggag ttcattcgac ctatccctac ctgggatgaa
+      421 tggcccgagt ttgctcgtga aacctttcag gccttccgaa ccactgacgt tggtcgcaag
+      481 ctcatcatcg accagaatgt ctttatcgag ggcaccctcc ccatgggtgt cgtgcgtccc
+      541 ctcactgaag tcgagatgga ccactaccgc gagccctttc tcaaccccgt cgacagggag
+      601 cccctctggc gattccctaa cgaacttccc atcgccggtg agcctgctaa catcgttgct
+      661 ttggttgaag agtatatgga ctggctccat cagtcccccg tgcctaagct ccttttctgg
+      721 ggaacccctg gcgttttgat tcctcccgcc gaggccgccc gactcgccaa gtctcttcct
+      781 aactgtaagg ctgtggacat cggccccgga cttaaccttc tccaagagga caaccctgat
+      841 ctcattggtt ctgaaatcgc tcgatggctc tccactttgg aaatcagcgg c
+//

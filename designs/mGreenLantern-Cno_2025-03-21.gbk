@@ -1,0 +1,25 @@
+LOCUS       mGreenLantern-Cno        717 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mGreenLantern-Cno
+VERSION     mGreenLantern-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..717
+                     /gene="mGreenLantern"
+ORIGIN
+        1 atggttagca agggcgagga gttgttcact ggtgtcgtgc ctatcctcgt cgaactcgat
+       61 ggtgatgtca acggtcacaa gttctctgtc cgaggtgagg gagaaggcga tgccaccaac
+      121 ggcaagctca ctcttaagtt tatttgcact actggtaagc tccccgtccc ctggcccacc
+      181 ctcgttacta ccttgggcta cggcgtcgct tgcttcgctc gataccccga tcacatgaag
+      241 cagcatgact tttttaagtc cgccatgcct gagggttacg tccaagagcg taccatttcc
+      301 tttaaggacg acggtactta caagactagg gccgaagtga agtttgaagg tgacactctc
+      361 gtcaacagga ttgtcctcaa gggaatcgac ttcaaggagg acggtaatat ccttggccat
+      421 aagttggaat acaactttaa ctcccacaag gtttatatca ccgccgataa gcagaagaac
+      481 ggtatcaagg ccaatttcaa gaccaggcac aatgttgaag atggaggcgt gcaacttgct
+      541 gaccattacc aacaaaacac ccctatcggt gacggccccg ttctccttcc tgacaaccac
+      601 tatttgtccc atcagtctaa gctctctaag gaccccaacg agaagcgcga ccacatggtg
+      661 cttaaggagc gagttaccgc tgccggtatt actcatgaca tggacgagct ttacaag
+//

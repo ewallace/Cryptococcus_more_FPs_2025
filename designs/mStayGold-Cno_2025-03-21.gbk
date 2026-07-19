@@ -1,0 +1,25 @@
+LOCUS       mStayGold-Cno            678 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mStayGold-Cno
+VERSION     mStayGold-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..678
+                     /gene="mStayGold"
+ORIGIN
+        1 atggttagca ctggagagga actctttacc ggcgttgttc ctttcaagtt ccagctcaag
+       61 ggaactatca acggcaagtc ctttactgtg gagggtgaag gcgaaggtaa ctctcatgaa
+      121 ggttctcaca agggtaagta cgtttgcact tctggcaagc tccctatgtc ctgggccgct
+      181 cttggcacct ctttcggtta cggtatgaag tactacacca agtatccttc cggcctcaag
+      241 aattggttcc acgaggtcat gcctgagggt tttacctacg accgacatat ccaatataag
+      301 ggcgacggtt ctatccacgc taagcaccag cactttatga agaacggaac ctatcacaac
+      361 attgtcgagt tcactggtca ggattttaag gaaaactccc ccgtcttgac tggcgacatg
+      421 gatgtctctc tccccaatga ggtccaacat attcccattg acgatggtgt tgagtgtacc
+      481 gtcactcttc agtaccctct tctcagcgac gagtccaagt gcgtcgaagc ctaccagaat
+      541 accatcatca agcccttgca caaccagccc gcccccgacg tccccttcca ttggattagg
+      601 aagcagtaca cccagagcaa ggacgacacc gaggaaaggg atcatatcat ccagtccgag
+      661 actcttgaag ctcacctc
+//

@@ -1,0 +1,24 @@
+LOCUS       mKO2-Cno                 654 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   mKO2-Cno
+VERSION     mKO2-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..654
+                     /gene="mKO2"
+ORIGIN
+        1 atggtttctg ttatcaagcc tgagatgaag atgcgatatt atatggacgg ttccgtgaac
+       61 ggtcatgagt ttaccattga gggagagggt actggccgcc cctacgaggg tcatcaggag
+      121 atgactttgc gagtcactat ggccgaagga ggccccatgc ccttcgcttt cgatcttgtt
+      181 agccacgtct tttgttacgg acatcgagtt ttcaccaagt atcccgaaga aatccctgac
+      241 tatttcaagc aggccttccc cgagggcttg tcctgggagc gttctctcga atttgaggat
+      301 ggtggctctg ctagcgtttc cgcccacatc tctctccgag gtaacacctt ttatcacaag
+      361 tccaagttca ccggagtcaa ctttcccgcc gatggcccta ttatgcaaaa ccagtctgtc
+      421 gactgggaac cttccaccga gaagattact gcctctgacg gtgtcctcaa gggtgatgtc
+      481 accatgtacc ttaagctcga aggtggtggt aaccataagt gccaaatgaa gaccacctac
+      541 aaggctgcta aggagatcct cgaaatgccc ggcgatcact acatcggtca caggctcgtc
+      601 aggaagactg aaggcaatat caccgaacag gtggaggacg ccgtcgctca ctcc
+//

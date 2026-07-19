@@ -1,0 +1,25 @@
+LOCUS       hfYFP-Cno                717 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   hfYFP-Cno
+VERSION     hfYFP-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..717
+                     /gene="hfYFP"
+ORIGIN
+        1 atggtgtcta agggtgaaga gctttttacc ggcgtcgtgc ctatcctcgt cgaactcgac
+       61 ggagatgtta acggtcataa gttctctgtt cgtggagaag gtgagggtga cgctaccaac
+      121 ggtaagctca ctcttaagtt gatttctacc actggaaagt tgcctgtccc ctggcccact
+      181 ctcgtcacta cccttggtta cggtcttatg gttttcgcca ggtatcccga ccacatgaag
+      241 cagcacgatt ttttcaagtc cgctatgccc gagggttatg tgcaggagcg aactatcagc
+      301 ttcgaggacg atggttatta caagacccga gccgaagtca agtttgaggg cgacaccttg
+      361 gtcaacagga tcgttctcaa gggcatcgac ttcaaggagg acggcaacat cctcggccac
+      421 aagttggagt acaatttcaa ctcccacaac gtctacatca ccgccgacaa gcagaagaat
+      481 ggcatcaagg ccaattttaa gatccgacac aatgttgaag acggtggcgt ccagctcgcc
+      541 gatcattatc aacaaaacac ccctattggc gacggtcccg tgctcctccc tgacaaccat
+      601 tacctttcct accagtctgt cctctccaag gaccccaatg agaagcgaga tcacatggtt
+      661 cttaaggaac gtgtcactgc cgctggtatt acccacgata tgaatgaact ctacaag
+//

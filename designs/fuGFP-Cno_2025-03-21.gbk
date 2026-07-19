@@ -1,0 +1,25 @@
+LOCUS       fuGFP-Cno                720 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   fuGFP-Cno
+VERSION     fuGFP-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..720
+                     /gene="fuGFP"
+ORIGIN
+        1 atggtttctt ccggtgagga catcttttcc ggattggtcc ctatccttat tgaactcgaa
+       61 ggtgacgtta atggacaccg attctctgtc cgtggtgaag gctacggcga cgcctctaac
+      121 ggaaagctcg aaatcaagtt catttgcacc actggtaggc ttcccgtccc ttggcccacc
+      181 ttggtgacta ccctctctta cggtgtgcaa tgtttcgcca agtatcccga acacatgagg
+      241 cagaatgact ttttcaagtc cgctatgccc gacggttacg tccaggagcg aaccatttcc
+      301 ttcaaggaag atggtactta caagactcgc gctgaggtta agttcgaggg cgaggctctc
+      361 gttaaccgaa tcgaccttaa gggtttggag tttaaggagg acggtaacat cctcggccac
+      421 aagttggaat actctttcaa ctcccactac gtctacatca ccgctgacaa gaataggaat
+      481 ggtcttgagg cccagttccg tatccgacat aacgttgacg acggcagcgt tcagctcgcc
+      541 gatcactatc aacagaacac tcctatcgga gaaggtcccg ttctcctccc cgagcagcac
+      601 taccttacca ctaactctgt tctttccaag gacccccagg aacgacgaga tcacatggtc
+      661 ctcgttgagt ttgtcactgc cgccggtctt tctctcggca tggacgagtt gtataagtct
+//

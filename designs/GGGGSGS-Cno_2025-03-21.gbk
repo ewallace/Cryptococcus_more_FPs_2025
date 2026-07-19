@@ -1,0 +1,14 @@
+LOCUS       GGGGSGS-Cno               21 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   GGGGSGS-Cno
+VERSION     GGGGSGS-Cno
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..21
+                     /gene="GGGGSGS"
+ORIGIN
+        1 ggcggtggcg gttctggttc c
+//
